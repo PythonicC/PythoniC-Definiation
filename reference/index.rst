@@ -6,3 +6,4 @@ Reference Guide
    :maxdepth: 2
 
    keywords
+   identifiers
