@@ -7,3 +7,4 @@ Reference Guide
 
    keywords
    identifiers
+   lexical
