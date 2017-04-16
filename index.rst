@@ -15,4 +15,5 @@ You should not write hacking code anymore.
   :maxdepth: 2
   :caption: Contents:
 
+  quickstart/index
   reference/index
